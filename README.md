@@ -3,4 +3,4 @@ This repository contains the homework assignments, project work, and supplementa
 
 Homework 1 implements ACT-R models of two-digit addition and subtraction, using structured chunks, goal-driven procedures, and finger counting to simulate carries and borrows while leveraging declarative memory and procedural rules to manage the task flow.
 
-Homework 2 implements an ACT-R model of letter recognition and comparison, using goal-driven visual attention and imaginal encoding to sequentially attend to three letters, store them in memory, and determine which letter differs from the others.
+Homework 2 implements an ACT-R model of letter recognition and comparison, using goal-driven visual attention and imaginal encoding to sequentially attend to three letters, store them in memory, and determine which letter differs from the others. It runs with the unit2.lisp code located in ACT-R\tutorial\lisp.
